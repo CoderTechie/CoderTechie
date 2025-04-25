@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to My Portfolio 👨‍💻
 
-<!--
-**CoderTechie/CoderTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Mathew Varghese 🚀
+Experienced Web Developer | Specialized in C# and Frontend & Backend Development  
+🌟 5+ Years of Experience  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Expertise
+- **Languages**: C#, JavaScript, Typescript
+- **Frontend**: HTML, CSS, Tailwind CSS, React JS, Jquery
+- **Backend**: ASP.NET, Web API  
+- **Database**: Microsoft SQL Server  
+
+---
+
+### 🌟 Projects Showcase
+Here are some of my favorite projects:
+
+#### Project 1: Portfolio ! **PUBLISHING**
+CHECK BACK TOMMORROW OP!! 
+
