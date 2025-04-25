@@ -17,6 +17,9 @@ Experienced Web Developer | Specialized in C# and Frontend & Backend Development
 ### 🌟 Projects Showcase
 Here are some of my favorite projects:
 
-#### Project 1: Portfolio ! **PUBLISHING**
-CHECK BACK TOMMORROW OP!! 
+#### Project 1: [Portfolio]
+- **Description**: [Brief Description of the Project]
+- **Link**: [(https://mathewthecoder.co.uk)]  
+- **Technologies Used**: [React Js, Tailwind CSS]
+
 
